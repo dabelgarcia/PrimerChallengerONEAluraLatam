@@ -1,4 +1,4 @@
-#Primer Challenger Alura ONE Latam
+Primer Challenger Alura ONE Latam
 
 He desarrollado un encriptador y descriptador realizado en JavaScript
 
